@@ -5,6 +5,7 @@ A collection of Hearthstone related vector based icons.
 ![Naxx](/PNG/Set_Naxx.png?raw=true "The Curse of Naxxramas")
 ![OG](/PNG/Set_OG.png?raw=true "Whispers of the Old Gods")
 ![Kara](PNG/Set_Kara.png?raw=true "One Night at Karazhan")
+![Gadgetzan](PNG/Set_Gadgetzan.png?raw=true "Mean Streets of Gadgetzan")
 
 ## Contents
 **Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan
