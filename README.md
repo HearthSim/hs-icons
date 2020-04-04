@@ -83,10 +83,11 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
 <td><img src="/PNG/Mode_Standard_Mammoth.png?raw=true" alt="Standard Mammoth" title="Standard Mammoth" /></td>
 <td><img src="/PNG/Mode_Standard_Raven.png?raw=true" alt="Standard Raven" title="Standard Raven" /></td>
 <td><img src="/PNG/Mode_Standard_Dragon.png?raw=true" alt="Standard Dragon" title="Standard Dragon" /></td>
+<td><img src="/PNG/Mode_Standard_Phoenix.png?raw=true" alt="Standard Phoenix" title="Standard Phoenix" /></td>
 </tr>
 </table>
 
-Wild, Standard, Battlegrounds, Kraken, Mammoth, Raven, Dragon.
+Wild, Standard, Battlegrounds, Kraken, Mammoth, Raven, Dragon, Phoenix.
 
 ## Misc
 <table>
