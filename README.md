@@ -70,10 +70,12 @@ Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, 
 <tr>
 <td><img src="/PNG/Class_Warrior.png?raw=true" alt="Warrior" title="Warrior" /></td>
 <td><img src="/PNG/Class_Warrior_Alt.png?raw=true" alt="Warrior Alt" title="Warrior Alt" /></td>
+<td><img src="/PNG/Class_DemonHunter.png?raw=true" alt="DemonHunter" title="DemonHunter" /></td>
+<td><img src="/PNG/Class_DemonHunter_Alt.png?raw=true" alt="DemonHunter Alt" title="DemonHunter Alt" /></td>
 </tr>
 </table>
 
-Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
+Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior, Demon Hunter.
 
 ## Game Modes
 <table>
