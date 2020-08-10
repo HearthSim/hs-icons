@@ -34,6 +34,7 @@ A collection of Hearthstone related vector based icons.
 <td><img src="/PNG/Set_Dragons.png?raw=true" alt="Descent of Dragons" title="Descent of Dragons" /></td>
 </tr>
 <tr>
+<td><img src="/PNG/Set_Galakrond.png?raw=true" alt="Galakrond's Awakening" title="Galakrond's Awakening" /></td>
 <td><img src="/PNG/Set_Ashes.png?raw=true" alt="Ashes of Outland" title="Ashes of Outland" /></td>
 <td><img src="/PNG/Set_DemonHunter.png?raw=true" alt="Demon Hunter" title="Demon Hunter" /></td>
 </tr>
