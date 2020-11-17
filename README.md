@@ -39,9 +39,12 @@ A collection of Hearthstone related vector based icons.
 <td><img src="/PNG/Set_DemonHunter.png?raw=true" alt="Demon Hunter" title="Demon Hunter" /></td>
 <td><img src="/PNG/Set_Scholomancy.png?raw=true" alt="Scholomance Academy" title="Scholomance Academy" /></td>
 </tr>
+<tr>
+<td><img src="/PNG/Set_Darkmoon.png?raw=true" alt="Madness at the Darkmoon Faire" title="Madness at the Darkmoon Faire" /></td>
+</tr>
 </table>
 
-Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project, Rastakhan's Rumble, Rise of Shadows, Saviors of Uldum, Descent of Dragons, Ashes of Outland, Scholomance Academy.
+Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project, Rastakhan's Rumble, Rise of Shadows, Saviors of Uldum, Descent of Dragons, Ashes of Outland, Scholomance Academy, Madness at the Darkmoon Faire.
 
 ## Classes
 <table>
