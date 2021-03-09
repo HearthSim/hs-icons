@@ -99,6 +99,7 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior, Demon Hun
 <tr>
 <td><img src="/PNG/Mode_Duels.png?raw=true" alt="Duels" title="Duels" /></td>
 <td><img src="/PNG/Mode_Classic.png?raw=true" alt="Classic" title="Classic" /></td>
+<td><img src="/PNG/Mode_Classic_Alt.png?raw=true" alt="Classic Alt" title="Classic Alt" /></td>
 </tr>
 </table>
 
