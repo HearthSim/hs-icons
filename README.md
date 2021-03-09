@@ -95,6 +95,8 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior, Demon Hun
 <td><img src="/PNG/Mode_Standard_Raven.png?raw=true" alt="Standard Raven" title="Standard Raven" /></td>
 <td><img src="/PNG/Mode_Standard_Dragon.png?raw=true" alt="Standard Dragon" title="Standard Dragon" /></td>
 <td><img src="/PNG/Mode_Standard_Phoenix.png?raw=true" alt="Standard Phoenix" title="Standard Phoenix" /></td>
+</tr>
+<tr>
 <td><img src="/PNG/Mode_Duels.png?raw=true" alt="Duels" title="Duels" /></td>
 <td><img src="/PNG/Mode_Classic.png?raw=true" alt="Classic" title="Classic" /></td>
 </tr>
